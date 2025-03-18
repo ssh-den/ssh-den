@@ -1,16 +1,13 @@
-## Hi there 👋
+# Welcome! I'm Den 👋
 
-<!--
-**ssh-den/ssh-den** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🧙‍♂️ Who Am I?
 
-Here are some ideas to get you started:
+Frontend Engineer • Python Developer • Design Enthusiast
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Here you’ll find handy scripts and tools to make your life easier. If they’re helpful—awesome, we’re on the right track! Feel free to explore, contribute, or reach out if you’d like to chat about tech.
+
+## 📫 Get In Touch
+
+Questions? Bugs? Suggestions? I’d love to hear from you!
+
+Reach me at: [**sshden@duck.com**](mailto:sshden@duck.com)
