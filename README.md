@@ -1,13 +1,15 @@
-# Welcome! I'm Den 👋
+# Hey, I'm Den 👋
 
-## 🧙‍♂️ Who Am I?
+Frontend Engineer · Python Developer
 
-Frontend Engineer • Python Developer • Design Enthusiast
+I build useful things: clean interfaces, practical tools, small automations, and scripts that make everyday work a little smoother.
 
-Here you’ll find handy scripts and tools to make your life easier. If they’re helpful — awesome, we’re on the right track! Feel free to explore, contribute, or reach out if you’d like to chat about tech.
+My work usually sits somewhere between **frontend engineering**, **Python tooling**, and **product/design thinking**. I like when software feels simple, intentional, and actually helpful.
 
-## 📫 Get In Touch
+## Let's connect
 
-Questions? Bugs? Suggestions? I’d love to hear from you!
+Found something useful? Have an idea, bug report, or just want to talk tech?
 
-Reach me at: [**sshden@duck.com**](mailto:sshden@duck.com)
+Reach me here:
+
+[**sshden@duck.com**](mailto:sshden@duck.com)
