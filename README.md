@@ -1,19 +1,47 @@
 # Hey, I'm Den 👋
 
-Frontend engineer, Python developer, occasional tinkerer.
+I build **local-first, privacy-friendly software** — speech and audio processing, LLM tooling, Home Assistant integrations, and automations that take repetitive work off your hands.
 
-I build things that just work — clean UIs, small tools, scripts that save you from doing
-the same things many times by hand. Usually I'm somewhere between frontend, Python tooling,
-and trying to make software feel pleasant to use.
+## Featured projects
 
-I like things that are intentional and actually helpful.
+### [PadRelay](https://github.com/ssh-den/PadRelay)
+Stream gamepad input across machines. Captures input on any OS and emulates a virtual Xbox 360 / DualShock 4 controller on a remote Windows PC — TCP or UDP transport, challenge/response authentication, heartbeats, and rate limiting. Published on [PyPI](https://pypi.org/project/padrelay/).
+`Python` `networking` `low latency` `protocol design`
 
-## What's here
+### [Moonlight Voice](https://github.com/ssh-den/moonlight-voice)
+A local audio response service for Home Assistant, shipped as an add-on with a hand-built web UI (vanilla JS/HTML/CSS, served through authenticated Ingress). Serves preloaded audio clips via an OpenAI-compatible TTS endpoint or Home Assistant's native TTS platform — fast, predictable voice automations.
+`Python` `JavaScript` `Home Assistant` `REST API`
 
-Mostly side projects and utilities I built for myself that turned out useful enough to share.
+### [Simple Meeting Transcriber](https://github.com/ssh-den/simple-meeting-transcriber)
+Turns meeting recordings into readable text, 100% offline, using whisper.cpp. Speaker separation for stereo recordings, silence-based chunking, parallel processing.
+`Python` `whisper.cpp` `audio processing`
+
+### [council-debates](https://github.com/ssh-den/council-debates)
+A modular Python package for role-based LLM debates: independent roles answer the same prompt, an optional ranker scores them, and a chairman model synthesizes the final answer. Works with OpenAI, OpenRouter, Ollama, LM Studio, vLLM, and any OpenAI-compatible endpoint.
+`Python 3.11+` `LLM orchestration` `OpenAI-compatible APIs`
+
+## More tools
+
+| Project | What it does |
+| --- | --- |
+| [fish-s2-mlx](https://github.com/ssh-den/fish-s2-mlx) | Local text-to-speech and voice cloning on Apple Silicon via MLX, with a Gradio UI |
+| [codex-quota](https://github.com/ssh-den/codex-quota) | Isolated Codex CLI profiles and quota monitoring, with JSON output and a live terminal dashboard |
+| [mp3-rss-downloader](https://github.com/ssh-den/mp3-rss-downloader) | Batch-download MP3s from RSS feeds |
+| [zed-keep-a-changelog-snippets](https://github.com/ssh-den/zed-keep-a-changelog-snippets) | Zed Editor snippets for Keep a Changelog–style changelogs |
+| [ComfyUI-RUAccent](https://github.com/ssh-den/ComfyUI-RUAccent) | ComfyUI custom node for automatic Russian stress accenting with custom dictionaries |
+| [yt-timecode-downloader](https://github.com/ssh-den/yt-timecode-downloader) | YouTube downloader that extracts and ranks timestamped comments |
+
+## How I work
+
+- **Local-first by default** — on-device inference (whisper.cpp, MLX) over cloud APIs when the job allows it.
+- **Packaged for real use** — PyPI releases, a Home Assistant add-on, CLIs.
+- **Documentation as part of the product** — each tool ships with a README covering installation, configuration, and usage from scratch.
+- **Care for the user-facing surface** — UIs, CLIs, config options, and error messages get the same attention as the code behind them.
+
+**Stack:** Python (primary) · JavaScript/HTML/CSS · REST APIs · Docker · whisper.cpp / MLX / LLM APIs
 
 ## Get in touch
 
-Found a bug? Have an idea? Let's connect!
+Questions, ideas, or opportunities — my inbox is open.
 
 → [sshden@duck.com](mailto:sshden@duck.com)
