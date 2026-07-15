@@ -5,20 +5,24 @@ I build **local-first, privacy-friendly software** — speech and audio processi
 ## Featured projects
 
 ### [PadRelay](https://github.com/ssh-den/PadRelay)
-Stream gamepad input across machines. Captures input on any OS and emulates a virtual Xbox 360 / DualShock 4 controller on a remote Windows PC — TCP or UDP transport, challenge/response authentication, heartbeats, and rate limiting. Published on [PyPI](https://pypi.org/project/padrelay/).
 `Python` `networking` `low latency` `protocol design`
 
+Stream gamepad input across machines. Captures input on any OS and emulates a virtual Xbox 360 / DualShock 4 controller on a remote Windows PC — TCP or UDP transport, challenge/response authentication, heartbeats, and rate limiting. Published on [PyPI](https://pypi.org/project/padrelay/).
+
 ### [Moonlight Voice](https://github.com/ssh-den/moonlight-voice)
-A local audio response service for Home Assistant, shipped as an add-on with a hand-built web UI (vanilla JS/HTML/CSS, served through authenticated Ingress). Serves preloaded audio clips via an OpenAI-compatible TTS endpoint or Home Assistant's native TTS platform — fast, predictable voice automations.
 `Python` `JavaScript` `Home Assistant` `REST API`
 
+A local audio response service for Home Assistant, shipped as an add-on with a hand-built web UI (vanilla JS/HTML/CSS, served through authenticated Ingress). Serves preloaded audio clips via an OpenAI-compatible TTS endpoint or Home Assistant's native TTS platform — fast, predictable voice automations.
+
 ### [Simple Meeting Transcriber](https://github.com/ssh-den/simple-meeting-transcriber)
-Turns meeting recordings into readable text, 100% offline, using whisper.cpp. Speaker separation for stereo recordings, silence-based chunking, parallel processing.
 `Python` `whisper.cpp` `audio processing`
 
+Turns meeting recordings into readable text, 100% offline, using whisper.cpp. Speaker separation for stereo recordings, silence-based chunking, parallel processing.
+
 ### [council-debates](https://github.com/ssh-den/council-debates)
-A modular Python package for role-based LLM debates: independent roles answer the same prompt, an optional ranker scores them, and a chairman model synthesizes the final answer. Works with OpenAI, OpenRouter, Ollama, LM Studio, vLLM, and any OpenAI-compatible endpoint.
 `Python 3.11+` `LLM orchestration` `OpenAI-compatible APIs`
+
+A modular Python package for role-based LLM debates: independent roles answer the same prompt, an optional ranker scores them, and a chairman model synthesizes the final answer. Works with OpenAI, OpenRouter, Ollama, LM Studio, vLLM, and any OpenAI-compatible endpoint.
 
 ## More tools
 
