@@ -2,6 +2,8 @@
 
 I build **local-first, privacy-friendly software** — speech and audio processing, LLM tooling, Home Assistant integrations, and automations that take repetitive work off your hands.
 
+**Stack:** Python · JavaScript/HTML/CSS · REST APIs · Docker · whisper.cpp / MLX / LLM APIs
+
 ## Featured projects
 
 ### [PadRelay](https://github.com/ssh-den/PadRelay)
@@ -34,15 +36,6 @@ A modular Python package for role-based LLM debates: independent roles answer th
 | [zed-keep-a-changelog-snippets](https://github.com/ssh-den/zed-keep-a-changelog-snippets) | Zed Editor snippets for Keep a Changelog–style changelogs |
 | [ComfyUI-RUAccent](https://github.com/ssh-den/ComfyUI-RUAccent) | ComfyUI custom node for automatic Russian stress accenting with custom dictionaries |
 | [yt-timecode-downloader](https://github.com/ssh-den/yt-timecode-downloader) | YouTube downloader that extracts and ranks timestamped comments |
-
-## How I work
-
-- **Local-first by default** — on-device inference (whisper.cpp, MLX) over cloud APIs when the job allows it.
-- **Packaged for real use** — PyPI releases, a Home Assistant add-on, CLIs.
-- **Documentation as part of the product** — each tool ships with a README covering installation, configuration, and usage from scratch.
-- **Care for the user-facing surface** — UIs, CLIs, config options, and error messages get the same attention as the code behind them.
-
-**Stack:** Python (primary) · JavaScript/HTML/CSS · REST APIs · Docker · whisper.cpp / MLX / LLM APIs
 
 ## Get in touch
 
