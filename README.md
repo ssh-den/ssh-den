@@ -22,7 +22,7 @@ A local audio response service for Home Assistant, shipped as an add-on with a h
 Turns meeting recordings into readable text, 100% offline, using whisper.cpp. Speaker separation for stereo recordings, silence-based chunking, parallel processing.
 
 ### [council-debates](https://github.com/ssh-den/council-debates)
-`Python 3.11+` `LLM orchestration` `OpenAI-compatible APIs`
+`Python` `LLM orchestration` `OpenAI-compatible APIs`
 
 A modular Python package for role-based LLM debates: independent roles answer the same prompt, an optional ranker scores them, and a chairman model synthesizes the final answer. Works with OpenAI, OpenRouter, Ollama, LM Studio, vLLM, and any OpenAI-compatible endpoint.
 
