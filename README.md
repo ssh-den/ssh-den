@@ -28,7 +28,7 @@ A modular Python package for role-based LLM debates: independent roles answer th
 
 ## More tools
 
-| Project | What it does |
+| Project | Description |
 | --- | --- |
 | [fish-s2-mlx](https://github.com/ssh-den/fish-s2-mlx) | Local text-to-speech and voice cloning on Apple Silicon via MLX, with a Gradio UI |
 | [codex-quota](https://github.com/ssh-den/codex-quota) | Isolated Codex CLI profiles and quota monitoring, with JSON output and a live terminal dashboard |
@@ -36,6 +36,7 @@ A modular Python package for role-based LLM debates: independent roles answer th
 | [zed-keep-a-changelog-snippets](https://github.com/ssh-den/zed-keep-a-changelog-snippets) | Zed Editor snippets for Keep a Changelog–style changelogs |
 | [ComfyUI-RUAccent](https://github.com/ssh-den/ComfyUI-RUAccent) | ComfyUI custom node for automatic Russian stress accenting with custom dictionaries |
 | [yt-timecode-downloader](https://github.com/ssh-den/yt-timecode-downloader) | YouTube downloader that extracts and ranks timestamped comments |
+| [simple-twitch-downloader](https://github.com/ssh-den/simple-twitch-downloader) | Small command-line wrapper around yt-dlp for downloading Twitch VODs. |
 
 ## Get in touch
 
