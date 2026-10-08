@@ -1,8 +1,8 @@
 # Hey, I'm Den 👋
 
-I build **local-first, privacy-friendly software** — speech and audio processing, LLM tooling, Home Assistant integrations, and automations that take repetitive work off your hands.
+Here I build **local-first, privacy-friendly software** — speech and audio processing, helpful Python tooling, and Home Assistant integrations.
 
-**Stack:** Python · JavaScript/HTML/CSS · REST APIs · Docker · whisper.cpp / MLX / LLM APIs
+**I mostly work with:** Python · JavaScript/HTML/CSS · REST APIs
 
 ## Featured projects
 
@@ -20,11 +20,6 @@ A local audio response service for Home Assistant, shipped as an add-on with a h
 `Python` `whisper.cpp` `audio processing`
 
 Turns meeting recordings into readable text, 100% offline, using whisper.cpp. Speaker separation for stereo recordings, silence-based chunking, parallel processing.
-
-### [council-debates](https://github.com/ssh-den/council-debates)
-`Python` `LLM orchestration` `OpenAI-compatible APIs`
-
-A modular Python package for role-based LLM debates: independent roles answer the same prompt, an optional ranker scores them, and a chairman model synthesizes the final answer. Works with OpenAI, OpenRouter, Ollama, LM Studio, vLLM, and any OpenAI-compatible endpoint.
 
 ## More tools
 
