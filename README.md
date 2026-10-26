@@ -16,11 +16,6 @@ Stream gamepad input across machines. Captures input on any OS and emulates a vi
 
 A local audio response service for Home Assistant, shipped as an add-on with a hand-built web UI (vanilla JS/HTML/CSS, served through authenticated Ingress). Serves preloaded audio clips via an OpenAI-compatible TTS endpoint or Home Assistant's native TTS platform — fast, predictable voice automations.
 
-### [Simple Meeting Transcriber](https://github.com/ssh-den/simple-meeting-transcriber)
-`Python` `whisper.cpp` `audio processing`
-
-Turns meeting recordings into readable text, 100% offline, using whisper.cpp. Speaker separation for stereo recordings, silence-based chunking, parallel processing.
-
 ## More tools
 
 | Project | Description |
