@@ -25,8 +25,6 @@ A local audio response service for Home Assistant, shipped as an add-on with a h
 | [mp3-rss-downloader](https://github.com/ssh-den/mp3-rss-downloader) | Batch-download MP3s from RSS feeds |
 | [zed-keep-a-changelog-snippets](https://github.com/ssh-den/zed-keep-a-changelog-snippets) | Zed Editor snippets for Keep a Changelog–style changelogs |
 | [ComfyUI-RUAccent](https://github.com/ssh-den/ComfyUI-RUAccent) | ComfyUI custom node for automatic Russian stress accenting with custom dictionaries |
-| [yt-timecode-downloader](https://github.com/ssh-den/yt-timecode-downloader) | YouTube downloader that extracts and ranks timestamped comments |
-| [simple-twitch-downloader](https://github.com/ssh-den/simple-twitch-downloader) | Small command-line wrapper around yt-dlp for downloading Twitch VODs. |
 
 ## Get in touch
 
