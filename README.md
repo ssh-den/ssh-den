@@ -15,6 +15,13 @@ I mostly work with JavaScript, HTML, and CSS. I also write Python and build tool
 
 ## Featured projects
 
+### [JamShoot Design](https://github.com/jamshoot-apps/jamshoot-design)
+`JavaScript` `HTML/CSS` `Design System` `Static Sites`
+
+A dependency-free design system and toolkit for building static websites. Built with plain JavaScript, with reusable components that render HTML at build time.
+
+Includes theming, light and dark modes, accessibility checks, and tools for building and previewing sites.
+
 ### [Moonlight Voice](https://github.com/ssh-den/moonlight-voice)
 `JavaScript` `HTML/CSS` `Python` `Home Assistant`
 
