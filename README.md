@@ -22,6 +22,13 @@ A dependency-free design system and toolkit for building static websites. Built 
 
 Includes theming, light and dark modes, accessibility checks, and tools for building and previewing sites.
 
+### [JamShoot Studio](https://github.com/jamshoot-apps/jamshoot-studio)
+`Python` `HTML/CSS` `App Store` `CLI` `Automation`
+
+A local tool for creating App Store screenshots with a browser-based editor and a CLI for automated workflows.
+
+Supports device mockups, custom layouts, localized text, themes, and reusable templates. Uses portable JSON projects and a shared rendering engine for previews, exports, and CI pipelines.
+
 ### [Moonlight Voice](https://github.com/ssh-den/moonlight-voice)
 `JavaScript` `HTML/CSS` `Python` `Home Assistant`
 
