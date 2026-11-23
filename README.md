@@ -3,9 +3,9 @@
 
 **Frontend Developer · UI Engineer · Designer**
 
-I'm a frontend developer with a background in UX/UI design. I build web interfaces, work on UI details, and care about how things look and feel in use.
+I'm a frontend developer with a background in UX/UI design, and I genuinely enjoy bringing ideas to life. I work primarily with JavaScript, HTML, and CSS, but also use Python to build my own apps, tools, and experiments.
 
-I mostly work with JavaScript, HTML, and CSS. I also write Python and build tools for things I use myself, from local audio services to developer utilities.
+I care about thoughtful interfaces, clean code, reusable components, and the little details that make things feel right. Whether it's a practical tool that makes everyday life easier or a quirky idea driven by curiosity, I love turning ideas into real, useful products that people actually enjoy using.
 
 ### What I work with
 
